@@ -41,7 +41,7 @@
     "chai": "^4.2.0",
     "fetch-mock": "^7.3.6",
     "jbash": "^1.48.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "npm-github-release": "^0.9.0",
     "swagger-model-validator": "^3.0.11",
     "ts-loader": "^6.0.4",
